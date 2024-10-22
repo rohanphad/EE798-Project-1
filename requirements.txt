@@ -1,0 +1,11 @@
+python==3.9.12              
+pytorch==1.8.1
+tensorboard==2.9.1 
+torchvision==0.9.1                
+numpy==1.22.3          
+einops==0.4.1                 
+matplotlib==3.6.1
+mmcv-full==1.5.0
+imagecodecs  
+opencv-python
+scikit-image
